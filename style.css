@@ -13,7 +13,7 @@ body{
     align-items: center;
     min-height: 100vh;
 
-    background-image: url("image/wallpaperflare.com_wallpaper (3).jpg");
+    background-image: url("image/wallpaperflare.com_wallpaper (5).jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -116,7 +116,7 @@ body::before{
 }
 
 .remember-forgot label input{
-    accent-color: #ff4d4d;
+    accent-color: #4dff77;
 }
 
 .remember-forgot a{
@@ -125,7 +125,7 @@ body::before{
 }
 
 .remember-forgot a:hover{
-    color: #ff4d4d;
+    color: #f04dff;
 }
 .btn{
     width: 100%;
@@ -141,7 +141,7 @@ body::before{
 }
 
 .btn:hover{
-    background: #ff4d4d;
+    background: #4ddeff;
     color: #fff;
 }
 
@@ -159,5 +159,5 @@ body::before{
 }
 
 .register a:hover{
-    color: #ff4d4d;
+    color: #4d56ff;
 }
